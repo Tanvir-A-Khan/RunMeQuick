@@ -1,0 +1,21 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.header{
+  display: flex;
+  /* align-items: space-between; */
+  justify-content: space-between;
+}
+.logo{
+  font-size: large;
+  font-weight: 700;
+}
+.btn{
+  height: 40px;
+  width: 100px;
+  font-weight: bold;
+}

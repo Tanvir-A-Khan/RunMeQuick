@@ -1,0 +1,14 @@
+.btn {
+    background-color: tomato;
+    color: rgb(255, 255, 255);
+    margin-left: 10px;
+    text-decoration: none;
+    font-size: larger;
+    border-radius: 8px;
+    transition: 0.3s ease;
+    padding: 10px;
+}
+
+.btn:hover{
+    background-color: orange;
+}
