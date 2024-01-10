@@ -22,7 +22,7 @@ This is a simple code runner application built with React, Express, Node.js, and
     git clone https://github.com/yourusername/coderunner-app.git
     ```
 
-2. Install dependencies:
+2. Install dependencies: [Run this command in both frontend and backend]
 
     ```bash
     npm install
